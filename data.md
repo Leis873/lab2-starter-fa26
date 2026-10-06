@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# Maitri Mydur
 Hello my name is maitri mydur!
 =======
 # RameenSattar 
