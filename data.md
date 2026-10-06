@@ -1,5 +1,5 @@
 # Maitri Mydur
-Hello my name is maitri mydur!
+Hi my name is Maitri Mydur and I am a Computer Science major. I like to read and go out with my friends.
 =======
 # RameenSattar 
 * Year at UCSD: Sophomore
